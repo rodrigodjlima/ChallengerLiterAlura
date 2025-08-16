@@ -33,7 +33,8 @@ https://www.postgresql.org/download/
 
 Execute o pacote instalado pgAdim 4 e/ou pode ser necessario criar um banco de dados chamado "literalura" no PostgreSQL, conforme imagem abaixo:
 
-![img.png](img.png)
+<img width="1003" height="749" alt="image" src="https://github.com/user-attachments/assets/dd3b8d50-a9eb-4053-b4ef-d980bb3dc6a3" />
+
 
 Configure o arquivo application.properties no IntelliJ:
 
