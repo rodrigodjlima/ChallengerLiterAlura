@@ -91,6 +91,11 @@ Extra, buscar livros por autor (API): Busca livros na API Gutendex pelo nome do 
 
 Extra, buscar livros por autor (Banco de Dados): Busca livros no banco local pelo autor
 
+Conforme imagem abaixo:
+
+<img width="466" height="364" alt="image" src="https://github.com/user-attachments/assets/380ceff9-45e2-4f72-b244-6729fea3fb5a" />
+
+
 🛡️ Tratamento de Erros
 
 A aplicação inclui tratamento de erros para:
