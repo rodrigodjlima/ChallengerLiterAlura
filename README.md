@@ -48,7 +48,10 @@ spring.datasource.username=seu_usuario_postgres
 spring.datasource.password=sua_senha_postgres
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
-Substitua seu_usuario_postgres e sua_senha_postgres pelas suas credenciais do PostgreSQL.
+
+Substitua seu_usuario_postgres e sua_senha_postgres.
+
+Pelas suas credenciais do PostgreSQL.
 
 🚀 Como Executar o Projeto
 
